@@ -1,0 +1,23 @@
+{
+  "name": "javascript-con-jest",
+  "version": "1.0.0",
+  "description": "Unit testing with Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^29.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emestanzarios/Javascript-con-Jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emestanzarios/Javascript-con-Jest/issues"
+  },
+  "homepage": "https://github.com/emestanzarios/Javascript-con-Jest#readme"
+}
